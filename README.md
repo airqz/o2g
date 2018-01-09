@@ -1,6 +1,4 @@
-# o2g
-
-Management tool / Outil de gestion (php & mysql)
+# Management tool [o2g] Outil de gestion 
 
 Step 1 : Create Database in http://localhost/phpmyadmin, example gest 
 
